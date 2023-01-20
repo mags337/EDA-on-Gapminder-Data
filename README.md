@@ -12,4 +12,4 @@ Exploratory data analysis on lifeexpectancy, population size, fertility and inco
 
 ![](/Project_1/lifeexp_wealth.gif "Lifeexpectancy_wealth")
 
-![] (/Project_1/animatedscatterplot.gif "Lifeexpectancy_fertility")
+![](/Project_1/animatedscatterplot.gif "Lifeexpectancy_fertility")
